@@ -1,0 +1,17 @@
+ CRUD Java + SQL Server
+
+Proyecto CRUD desarrollado en Java (Swing) conectado a SQL Server usando JDBC.
+
+## 🚀 Tecnologías
+- Java (JDK 8+)
+- SQL Server
+- JDBC
+- NetBeans
+
+## ⚙️ Funcionalidades
+- Conectar / Desconectar a la BD
+- Insertar alumnos
+- Mostrar alumnos en JTable
+- Actualizar registros
+- Eliminar registros
+- Limpiar campos
